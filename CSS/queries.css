@@ -1,0 +1,1746 @@
+/* Extra large devices (large laptops and desktops, 1024px and up) */
+@media screen and (min-width: 1200px) and (max-width: 1600px) {
+
+    .logo h1 {
+        top: 1%;
+        left: 3%;
+    }
+
+    .logo p {
+        top: 6%;
+        left: 8.2%;
+    }
+
+    .active-menu {
+        display: none;
+    }
+
+    .active-menu-nav {
+        width: 70%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .nav-links {
+        width: 100%;
+    }
+
+
+    .nav-btn {
+        display: block;
+        margin: 1rem;
+    }
+
+    .hero-content {
+        margin-top: 20%;
+    }
+
+    .major {
+        width: 60%;
+    }
+
+    .form {
+        padding: 5% 6% 7% 0;
+    }
+
+    .field,
+    .field-half {
+        padding: 1rem 0 0 0;
+    }
+
+    .email {
+        padding-left: 2rem;
+    }
+
+    label {
+        font-size: 1.2rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        width: 16rem;
+    }
+
+    textarea {
+        width: 34rem
+    }
+
+    .split {
+        padding: 3.6rem 0 3.6rem 3.5rem;
+    }
+
+    .box {
+        height: 22rem;
+    }
+
+    .image img {
+        height: 22rem;
+    }
+
+    .btn {
+        padding: 3rem 0 0 0;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .split p {
+        margin-left: 4rem;
+    }
+
+    /* ==================WEDDING======================= */
+
+    .active-menu-nav {
+        width: 68%;
+    }
+
+    .wed-content {
+        width: 75%;
+        margin-left: 5%;
+        margin-top: 17%;
+    }
+
+    .wed-content h1 {
+        font-size: 3.2rem;
+        padding-bottom: 1rem;
+    }
+
+    .wed-content p {
+        font-size: 0.97rem;
+    }
+
+    .secondary {
+        margin-top: 1.1rem;
+    }
+}
+
+/* Large devices (laptops/desktops, 768px and 1023px) */
+@media screen and (min-width: 1023px) and (max-width: 1199px) {
+
+    .banner {
+        height: 95vh;
+    }
+
+    .logo h1 {
+        top: 1.5%;
+        left: 3%;
+    }
+
+
+    .logo p {
+        top: 6.5%;
+        left: 10%;
+    }
+
+    .active-menu {
+        display: none;
+    }
+
+    .active-menu-nav {
+        width: 78%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .main-nav {
+        align-items: center;
+        text-align: center;
+    }
+
+    .nav-links a {
+        font-size: 1.1rem;
+    }
+
+    .nav-links {
+        padding-top: 0;
+    }
+
+    .hero-content {
+        margin-top: 25%;
+    }
+
+    .hero-text {
+        font-size: 1.7rem;
+    }
+
+    .hero-sm-content {
+        width: 90%;
+        align-items: center;
+    }
+
+    .hero-btn button {
+        padding: 0.6rem 1.6rem;
+        font-size: 1rem;
+    }
+
+    .box {
+        height: 20rem;
+    }
+
+    .image img {
+        height: 20rem;
+    }
+
+    .major {
+        width: 70%;
+    }
+
+    .extra-content {
+        padding-top: 3rem;
+        padding-bottom: 4rem;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+    .form {
+        width: 60%;
+        padding: 5% 3.5% 7% 0;
+        border-right: 1px solid #fff;
+    }
+
+    .field-half {
+        margin-bottom: 1.5rem;
+    }
+
+    .field,
+    .field-half {
+        padding: 1rem 0 0 0;
+        line-height: 3rem;
+    }
+
+    .email {
+        padding-left: 1.5rem;
+    }
+
+    .btn {
+        padding: 3.5rem 0 0 0;
+    }
+
+    .split {
+        padding: 3.6rem 0 3.6rem 2rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.3rem;
+    }
+
+    .split p {
+        margin-left: 4.1rem;
+    }
+
+    .split-head {
+        align-items: center;
+    }
+
+    .footer_inner {
+        margin-left: 5%;
+        padding: 3rem 0 3rem 0;
+    }
+
+    /* ==================WEDDING======================= */
+
+    .wed-content {
+        width: 75%;
+        margin-left: 5%;
+        margin-top: 22%;
+    }
+
+    .wed-content h1 {
+        font-size: 2.8rem;
+        padding-bottom: 1rem;
+    }
+
+    .wed-content p {
+        font-size: 0.97rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .sec-content {
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-content p {
+        line-height: 1.9rem;
+
+    }
+
+    #sec-articles {
+        height: 21rem;
+    }
+
+    .sec-image img {
+        height: 21rem;
+    }
+
+    .left-article,
+    .right-article {
+        height: 21rem;
+    }
+
+    .sec-content p {
+        font-size: 0.97rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        text-align: justify;
+    }
+
+    .sec-major {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .sec-major h2 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .sec-major p {
+        font-size: 0.9rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-major button {
+        font-size: 0.9rem;
+    }
+}
+
+
+
+/* Medium devices (landscape tablets, 480px and 767px) */
+@media screen and (min-width: 950px) and (max-width: 1022px) {
+
+    .banner {
+        height: 85vh;
+        max-height: 90vh;
+    }
+
+    .logo h1 {
+        font-size: 2rem;
+        left: 2.5%;
+        top: 1%;
+    }
+
+    .logo p {
+        top: 6%;
+        left: 9.8%;
+    }
+
+    .active-menu {
+        display: none;
+    }
+
+    .active-menu-nav {
+        width: 78%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .main-nav {
+        align-items: center;
+        text-align: center;
+    }
+
+    .nav-links a {
+        font-size: 1.1rem;
+    }
+
+    .nav-links {
+        padding-top: 0;
+    }
+
+    .hero-content {
+        margin-top: 20%;
+    }
+
+    .hero-text {
+        font-size: 1.5rem;
+    }
+
+    .hero-para {
+        font-size: 0.9rem;
+    }
+
+    .hero-sm-content {
+        width: 90%;
+    }
+
+    .hero-btn button {
+        padding: 0.8rem 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    .box {
+        height: 20rem;
+        width: 50%;
+    }
+
+    .image img {
+        height: 20rem;
+        overflow: hidden;
+    }
+
+    .major {
+        width: 60%;
+        top: -8rem;
+    }
+
+    .extra-content {
+        padding-top: 2rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .extra-content h2 {
+        font-size: 1.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .extra-content p {
+        letter-spacing: 0;
+        padding-top: 1rem;
+        padding-bottom: 1.5rem;
+        line-height: 1.8rem;
+        font-weight: 300;
+    }
+
+    .field,
+    .field-half {
+        padding: 1.5rem 0 0 0;
+        line-height: 2.5rem;
+        display: block;
+        margin-bottom: 0.9rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        width: 25rem;
+        font-size: 1.1rem;
+    }
+
+    textarea {
+        width: 25rem;
+        height: 12rem;
+        font-size: 1rem;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+    .btn {
+        padding: 3rem 0 0 0rem;
+    }
+
+    .btn-send,
+    .btn-clear {
+        text-align: center;
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .split {
+        width: 100%;
+        padding: 3.5rem 0 3.5rem 1.7rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.2rem;
+    }
+
+    .split p {
+        margin-left: 4rem;
+        font-size: 0.95rem;
+    }
+
+    .fa {
+        padding: 0.6rem;
+    }
+
+    .footer_inner {
+        padding: 3rem 0;
+    }
+
+    /* =========================================== */
+
+    .wed-content {
+        width: 75%;
+        margin-left: 5%;
+        margin-top: 25%;
+    }
+
+    .wed-content h1 {
+        font-size: 2.5rem;
+        padding-bottom: 1rem;
+    }
+
+    .wed-content p {
+        font-size: 0.9rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .secondary .hero-btn button {
+        padding: 0.7rem 1.7rem;
+    }
+
+    .sec-content {
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-content p {
+        line-height: 1.9rem;
+
+    }
+
+    #sec-articles {
+        height: 20rem;
+    }
+
+    .sec-image img {
+        height: 20rem;
+    }
+
+    .left-article,
+    .right-article {
+        height: 20rem;
+    }
+
+    .sec-content p {
+        font-size: 0.92rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        text-align: justify;
+    }
+
+    .sec-major {
+        padding-top: 2.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .sec-major h2 {
+        font-size: 1.4rem;
+        padding-bottom: 1rem;
+    }
+
+    .sec-major p {
+        font-size: 0.9rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-major button {
+        font-size: 0.7rem;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 320px and 479) */
+@media screen and (min-width: 800px) and (max-width: 949px) {
+    .banner {
+        height: 75vh;
+    }
+
+    .logo h1 {
+        font-size: 1.7rem;
+        top: 0.7%;
+    }
+
+    .logo p {
+        font-size: 1.3rem;
+        top: 5%;
+        left: 11%;
+    }
+
+    .active-menu-nav {
+        display: none;
+    }
+
+    .active-menu {
+        cursor: pointer;
+    }
+
+    .active-menu::after {
+        content: "≡";
+        display: block;
+        font-size: 2.5rem;
+        align-items: center;
+        color: rgb(252, 140, 35);
+        padding: 0 1rem 0 0;
+    }
+
+    .hero-content {
+        width: 90%;
+        margin-top: 25%;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .hero-sm-content {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .hero-para {
+        width: 70%;
+        font-size: 0.9rem;
+    }
+
+    .hero-btn button {
+        font-size: 0.5rem;
+        width: 100%;
+        padding: 0.7rem 0.7rem;
+        font-size: 0.8rem;
+    }
+
+    .box {
+        height: 18rem;
+        width: 50%;
+    }
+
+    .image img {
+        height: 18rem;
+        overflow: hidden;
+    }
+
+    .major {
+        width: 70%;
+        top: -8rem;
+        left: 7%;
+    }
+
+    .major h2 {
+        font-size: 1.4rem;
+    }
+
+    .extra-content {
+        padding-top: 2rem;
+        padding-bottom: 2.6rem;
+    }
+
+    .extra-content h2 {
+        font-size: 1.5rem;
+    }
+
+    .extra-content p {
+        width: 100%;
+        font-size: 0.9rem;
+        letter-spacing: 0.05rem;
+        padding-top: 0.7rem;
+        padding-bottom: 1rem;
+    }
+
+    #contact {
+        background-size: 250% 100%;
+    }
+
+    .inner {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: block;
+    }
+
+    .form {
+        width: 100%;
+        padding: 5% 5% 8% 0;
+        border-right: none;
+        border-bottom: 1px solid #fff;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    label {
+        font-size: 1.1rem;
+    }
+
+    .field-half {
+        width: 49.5%;
+        margin-bottom: 0;
+        justify-content: space-between;
+    }
+
+    .field,
+    .field-half {
+        padding: 1.5rem 0 1rem 1.5rem;
+        line-height: 2.5rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        font-size: 1.2rem;
+        width: 100%;
+    }
+
+
+    textarea {
+        width: 100%;
+        font-size: 1rem;
+        height: 15rem;
+    }
+
+    .btn {
+        padding: 2rem 0 0 1.5rem;
+    }
+
+    .btn-send,
+    .btn-clear {
+        text-align: center;
+        padding: 0.6rem 1rem;
+        font-size: 0.8rem;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    .split {
+        width: 100%;
+        padding: 3.5rem 0 3.5rem 1.7rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.rem;
+        font-weight: 700;
+    }
+
+    .split p {
+        margin-left: 4rem;
+        font-size: 1rem;
+        color: rgb(236, 234, 234);
+    }
+
+    .fa {
+        padding: 0.7rem;
+    }
+
+    .footer-icons i {
+        padding: 0.8rem;
+    }
+
+    .footer_inner {
+        padding: 3rem 0;
+    }
+
+    #copyright {
+        font-size: 1rem;
+    }
+
+    /* ============================================== */
+
+    .wed-content {
+        width: 85%;
+        margin-left: 5%;
+        margin-top: 24%;
+    }
+
+    .wed-content h1 {
+        font-size: 2.2rem;
+        padding-bottom: 1rem;
+    }
+
+    .wed-content p {
+        font-size: 0.88rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .secondary .hero-btn button {
+        padding: 0.7rem 1.7rem;
+    }
+
+    .sec-content {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-content p {
+        line-height: 1.7rem;
+    }
+
+    #sec-articles {
+        height: 50rem;
+        background-color: rgb(26, 32, 65);
+    }
+
+    .sec-image {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .sec-image img {
+        width: 100%;
+        height: 30rem;
+    }
+
+    .left-article,
+    .right-article {
+        display: block;
+        height: 0;
+    }
+
+    .right-article {
+        flex-direction: row;
+    }
+
+    .sec-content p {
+        font-size: 0.92rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        text-align: justify;
+    }
+
+    .sec-major {
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        padding-top: 2.5rem;
+        padding-bottom: 2rem;
+        display: block;
+    }
+
+    .sec-major h2 {
+        font-size: 1.4rem;
+        padding-bottom: 1rem;
+    }
+
+    .sec-major p {
+        font-size: 0.9rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-major button {
+        font-size: 0.8rem;
+        width: 30%;
+    }
+
+}
+
+@media screen and (min-width: 600px) and (max-width: 799px) {
+
+    .banner {
+        height: 70vh;
+        max-height: 90vh;
+    }
+
+    .logo h1 {
+        font-size: 1.7rem;
+        top: 0.7%;
+    }
+
+    .logo p {
+        font-size: 1.3rem;
+        top: 5%;
+        left: 13.5%;
+    }
+
+    .active-menu-nav {
+        display: none;
+    }
+
+    .active-menu {
+        cursor: pointer;
+    }
+
+    .active-menu::after {
+        content: "≡";
+        display: block;
+        font-size: 2.5rem;
+        align-items: center;
+        color: rgb(252, 140, 35);
+        padding: 0 1rem 0 0;
+    }
+
+    .hero-content {
+        width: 85%;
+        margin-top: 20%;
+    }
+
+    .hero-content h1 {
+        font-size: 2.1rem;
+        padding-bottom: 1rem;
+    }
+
+    .hero-sm-content {
+        width: 100%;
+        display: block;
+        margin-top: 1rem;
+    }
+
+    .hero-para {
+        font-size: 0.8rem;
+        width: 90%;
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .hero-btn button {
+        padding: 0.75rem 2rem;
+        font-size: 0.7rem;
+    }
+
+    .box {
+        height: 16rem;
+        width: 50%;
+    }
+
+    .image img {
+        height: 16rem;
+        overflow: hidden;
+    }
+
+    .major {
+        width: 80%;
+        top: -6.5rem;
+        left: 7%;
+    }
+
+    .major h2 {
+        font-size: 1.2rem;
+    }
+
+    .extra-content {
+        padding-top: 2rem;
+        padding-bottom: 2.6rem;
+    }
+
+    .extra-content h2 {
+        font-size: 1.3rem;
+    }
+
+    .extra-content p {
+        width: 100%;
+        font-size: 0.5rem;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        line-height: 1.8rem;
+    }
+
+    #contact {
+        background-size: 400% 100%;
+    }
+
+    .inner {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: block;
+    }
+
+    .form {
+        width: 100%;
+        padding: 5% 5% 8% 0;
+        border-right: none;
+        border-bottom: 1px solid #fff;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+
+    .field-half {
+        width: 49.5%;
+        margin-bottom: 0;
+        justify-content: space-between;
+    }
+
+    .field,
+    .field-half {
+        padding: 1.5rem 0 1rem 0;
+        line-height: 2.5rem;
+    }
+
+    .email {
+        padding: 1.5rem 0 1rem 1rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        font-size: 1.2rem;
+        width: 100%;
+    }
+
+
+    textarea {
+        width: 100%;
+        font-size: 1rem;
+        height: 13rem;
+    }
+
+    .btn {
+        padding: 2rem 0 0 0;
+    }
+
+    .btn-send,
+    .btn-clear {
+        text-align: center;
+        padding: 0.6rem 1rem;
+        font-size: 0.7rem;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    .split {
+        width: 100%;
+        padding: 3.5rem 0 3.5rem 1.7rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+
+    .split p {
+        margin-top: 0.5rem;
+        margin-left: 4rem;
+        font-size: 0.9rem;
+        color: rgb(236, 234, 234);
+    }
+
+    .fa {
+        padding: 0.7rem;
+    }
+
+    .footer-icons i {
+        padding: 0.8rem;
+    }
+
+    .footer_inner {
+        padding: 3rem 0;
+    }
+
+    #copyright {
+        font-size: 0.9rem;
+    }
+
+    /* ================================================= */
+    .wed-content {
+        width: 85%;
+        margin-left: 5%;
+        margin-top: 24%;
+    }
+
+    .wed-content h1 {
+        font-size: 2rem;
+        padding-bottom: 1rem;
+    }
+
+    .wed-content p {
+        font-size: 0.8rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .secondary .hero-btn button {
+        padding: 0.7rem 2rem;
+    }
+
+    .sec-content {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-content p {
+        font-size: 0.8rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        line-height: 1.5rem;
+    }
+
+    #sec-articles {
+        height: 45rem;
+        background-color: rgb(26, 32, 65);
+    }
+
+    .sec-image {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .sec-image img {
+        width: 100%;
+        height: 25rem;
+    }
+
+    .left-article,
+    .right-article {
+        display: block;
+        height: 0;
+    }
+
+    .right-article {
+        flex-direction: row;
+    }
+
+    .sec-major {
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        padding-top: 2.5rem;
+        padding-bottom: 1rem;
+        display: block;
+    }
+
+    .sec-major h2 {
+        font-size: 1.4rem;
+        padding-bottom: 1rem;
+    }
+
+    .sec-major p {
+        font-size: 0.8rem;
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
+
+    .sec-major button {
+        font-size: 0.8rem;
+    }
+
+    .sec-extra p {
+        font-size: 0.8rem;
+    }
+
+}
+
+@media screen and (min-width: 479px) and (max-width: 599px) {
+    .banner {
+        height: 60vh;
+    }
+
+    .logo h1 {
+        font-size: 1.5rem;
+        top: 0.7%;
+    }
+
+    .logo p {
+        font-size: 1.1rem;
+        top: 4.4%;
+        left: 14%;
+    }
+
+    .active-menu-nav {
+        display: none;
+    }
+
+    .active-menu {
+        cursor: pointer;
+    }
+
+    .active-menu::before {
+        content: "≡";
+        display: block;
+        font-size: 2.2rem;
+        align-items: center;
+        color: rgb(252, 140, 35);
+        padding: 0 1rem 0 0;
+    }
+
+    .hero-content {
+        width: 85%;
+        margin-top: 20%;
+    }
+
+    .hero-content h1 {
+        font-size: 2rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .hero-sm-content {
+        width: 100%;
+        display: block;
+        margin-top: 0.5rem;
+    }
+
+    .hero-para {
+        font-size: 0.78rem;
+        width: 90%;
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .hero-btn button {
+        padding: 0.75rem 1.5rem;
+        font-size: 0.6rem;
+    }
+
+    .box {
+        height: 15rem;
+        width: 50%;
+    }
+
+    .image img {
+        height: 15rem;
+        overflow: hidden;
+    }
+
+    .major {
+        width: 80%;
+        top: -6.5rem;
+        left: 7%;
+    }
+
+    .major h2 {
+        font-size: 1rem;
+    }
+
+    .extra-content {
+        padding-top: 1.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .extra-content h2 {
+        font-size: 1.1rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .extra-content p {
+        width: 100%;
+        font-size: 0.7rem;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        line-height: 1.5rem;
+    }
+
+    #contact {
+        background-size: 500% 100%;
+    }
+
+    .inner {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: block;
+    }
+
+    .form {
+        width: 100%;
+        padding: 5% 0 8% 0;
+        border-right: none;
+        border-bottom: 1px solid #fff;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+
+    .field-half {
+        width: 49.5%;
+        margin-bottom: 0;
+        justify-content: space-between;
+    }
+
+    .field,
+    .field-half {
+        padding: 1.5rem 0 1rem 0;
+        line-height: 2.5rem;
+    }
+
+    .email {
+        padding: 1.5rem 0 1rem 1rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        font-size: 1.2rem;
+        width: 100%;
+    }
+
+
+    textarea {
+        width: 100%;
+        font-size: 1rem;
+        height: 13rem;
+    }
+
+    .btn {
+        padding: 2rem 0 0 0;
+    }
+
+    .btn-send,
+    .btn-clear {
+        text-align: center;
+        padding: 0.6rem 1rem;
+        font-size: 0.7rem;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    .split {
+        width: 100%;
+        padding: 3.5rem 0 3.5rem 1.7rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+
+    .split p {
+        margin-top: 0.5rem;
+        margin-left: 4rem;
+        font-size: 0.9rem;
+        color: rgb(236, 234, 234);
+    }
+
+    .fa {
+        padding: 0.7rem;
+    }
+
+    .footer-icons i {
+        padding: 0.8rem;
+    }
+
+    .footer_inner {
+        padding: 3rem 0;
+    }
+
+    #copyright {
+        font-size: 0.8rem;
+    }
+
+    /* ================================================= */
+    .wed-content {
+        width: 85%;
+        margin-left: 5%;
+        margin-top: 24%;
+    }
+
+    .wed-content h1 {
+        font-size: 1.7rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .wed-content p {
+        font-size: 0.7rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .secondary .hero-btn button {
+        padding: 0.7rem 2rem;
+    }
+
+    .sec-content {
+        padding-top: 2rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .sec-content p {
+        font-size: 0.7rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        line-height: 1.4rem;
+    }
+
+    #sec-articles {
+        height: 35rem;
+        background-color: rgb(26, 32, 65);
+    }
+
+    .sec-image {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .sec-image img {
+        width: 100%;
+        height: 18rem;
+    }
+
+    .left-article,
+    .right-article {
+        display: block;
+        height: 0;
+    }
+
+    .right-article {
+        flex-direction: row;
+    }
+
+    .sec-major {
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        display: block;
+    }
+
+    .sec-major h2 {
+        font-size: 1.1rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .sec-major p {
+        font-size: 0.78rem;
+        padding-top: 1rem;
+        padding-bottom: 1.2rem;
+        line-height: 1.5rem;
+    }
+
+    .sec-major button {
+        font-size: 0.8rem;
+    }
+
+    .sec-extra p {
+        font-size: 0.8rem;
+    }
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 478px) {
+    .banner {
+        height: 55vh;
+    }
+
+    .logo h1 {
+        font-size: 1.5rem;
+        top: 0.7%;
+    }
+
+    .logo p {
+        font-size: 1.1rem;
+        top: 4.4%;
+        left: 14%;
+    }
+
+    .active-menu-nav {
+        display: none;
+    }
+
+    .active-menu {
+        cursor: pointer;
+    }
+
+    .active-menu::after {
+        content: "≡";
+        display: block;
+        font-size: 2.2rem;
+        align-items: center;
+        color: rgb(252, 140, 35);
+        padding: 0 1rem 0 0;
+    }
+
+    .hero-content {
+        width: 85%;
+        margin-top: 20%;
+    }
+
+    .hero-content h1 {
+        font-size: 2rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .hero-sm-content {
+        width: 100%;
+        display: block;
+        margin-top: 0.5rem;
+    }
+
+    .hero-para {
+        font-size: 0.78rem;
+        width: 90%;
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+
+    .hero-btn button {
+        padding: 0.75rem 1.5rem;
+        font-size: 0.6rem;
+    }
+
+    .box {
+        height: 15rem;
+        width: 50%;
+    }
+
+    .image img {
+        height: 15rem;
+        overflow: hidden;
+    }
+
+    .major {
+        width: 80%;
+        top: -6.5rem;
+        left: 7%;
+    }
+
+    .major h2 {
+        font-size: 1rem;
+    }
+
+    .extra-content {
+        padding-top: 1.5rem;
+        padding-bottom: 2.5rem;
+    }
+
+    .extra-content h2 {
+        font-size: 1.1rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .extra-content p {
+        width: 100%;
+        font-size: 0.7rem;
+        padding-bottom: 1rem;
+        padding-top: 1rem;
+        line-height: 1.5rem;
+    }
+
+    #contact {
+        background-size: 500% 100%;
+    }
+
+    .inner {
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: block;
+    }
+
+    .form {
+        width: 100%;
+        padding: 5% 0 8% 0;
+        border-right: none;
+        border-bottom: 1px solid #fff;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    label {
+        font-size: 1rem;
+    }
+
+
+    .field-half {
+        width: 49.5%;
+        margin-bottom: 0;
+        justify-content: space-between;
+    }
+
+    .field,
+    .field-half {
+        padding: 1.5rem 0 1rem 0;
+        line-height: 2.5rem;
+    }
+
+    .email {
+        padding: 1.5rem 0 1rem 1rem;
+    }
+
+    input[type=text],
+    input[type=email] {
+        font-size: 1.2rem;
+        width: 100%;
+    }
+
+
+    textarea {
+        width: 100%;
+        font-size: 1rem;
+        height: 13rem;
+    }
+
+    .btn {
+        padding: 2rem 0 0 0;
+    }
+
+    .btn-send,
+    .btn-clear {
+        text-align: center;
+        padding: 0.6rem 1rem;
+        font-size: 0.7rem;
+    }
+
+    .btn-clear {
+        margin-right: 0;
+    }
+
+    .right-split {
+        width: 100%;
+    }
+
+    .split {
+        width: 100%;
+        padding: 3.5rem 0 3.5rem 1.7rem;
+    }
+
+    .split-head h3 {
+        font-size: 1.3rem;
+        font-weight: 700;
+    }
+
+    .split p {
+        margin-top: 0.5rem;
+        margin-left: 4rem;
+        font-size: 0.9rem;
+        color: rgb(236, 234, 234);
+    }
+
+    .fa {
+        padding: 0.7rem;
+    }
+
+    .footer-icons i {
+        padding: 0.8rem;
+    }
+
+    .footer_inner {
+        padding: 3rem 0;
+    }
+
+    #copyright {
+        font-size: 0.8rem;
+    }
+
+    /* ================================================= */
+    .wed-content {
+        width: 85%;
+        margin-left: 5%;
+        margin-top: 24%;
+    }
+
+    .wed-content h1 {
+        font-size: 1.7rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .wed-content p {
+        font-size: 0.7rem;
+    }
+
+    .secondary {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .secondary .hero-btn button {
+        padding: 0.7rem 2rem;
+    }
+
+    .sec-content {
+        padding-top: 2rem;
+        padding-bottom: 1.5rem;
+    }
+
+    .sec-content p {
+        font-size: 0.7rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        line-height: 1.4rem;
+    }
+
+    #sec-articles {
+        height: 35rem;
+        background-color: rgb(26, 32, 65);
+    }
+
+    .sec-image {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .sec-image img {
+        width: 100%;
+        height: 18rem;
+    }
+
+    .left-article,
+    .right-article {
+        display: block;
+        height: 0;
+    }
+
+    .right-article {
+        flex-direction: row;
+    }
+
+    .sec-major {
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        display: block;
+    }
+
+    .sec-major h2 {
+        font-size: 1.1rem;
+        padding-bottom: 0.7rem;
+    }
+
+    .sec-major p {
+        font-size: 0.78rem;
+        padding-top: 1rem;
+        padding-bottom: 1.2rem;
+        line-height: 1.5rem;
+    }
+
+    .sec-major button {
+        font-size: 0.8rem;
+    }
+
+    .sec-extra p {
+        font-size: 0.8rem;
+    }
+
+}
